@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">pompApp</string>
+    <string name="new_title">New Title</string>
+    <string name="some_text">Some Text</string>
+    <string name="open_keyboard">click on me will open keyboard</string>
+    <string name="click_me">Click Me</string>
+    <string name="custom">Custom</string>
+    <string name="Alert">Alert</string>
+    <string name="Date">Date</string>
+    <string name="exit">Exit</string>
+    <string name="exit_string">Are you sure you want to exit?</string>
+    <string name="name_hint">Give a name</string>
+    <string name="ok">OK</string>
+    <string name="celebrate">Celebrate</string>
+    <string name="number_of_tickets">number of tickets</string>
+    <string name="get_tickets">get tickets</string>
+
+</resources>
