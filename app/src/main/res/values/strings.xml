@@ -11,6 +11,7 @@
     <string name="exit_string">Are you sure you want to exit?</string>
     <string name="name_hint">Give a name</string>
     <string name="ok">OK</string>
+    <string name="todo">OK</string>
     <string name="celebrate">Celebrate</string>
     <string name="number_of_tickets">number of tickets</string>
     <string name="get_tickets">get tickets</string>

@@ -136,8 +136,8 @@ class MainActivity : AppCompatActivity() {
             val b = BottomSheetDialog(this)
             b.setContentView(R.layout.bottom_sheet_dialog)
 
-            val btn = findViewById<Button>(R.id.get_tickets_btn)
-            btn.setOnClickListener {
+            val btn2 = findViewById<Button>(R.id.get_tickets_btn)
+            btn2.setOnClickListener {
                 Toast.makeText(this,"stam",Toast.LENGTH_SHORT).show()
 
             }
